@@ -9,6 +9,8 @@
   "author": "Trisha Organ",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "fs": "0.0.1-security",
+    "strftime": "^0.10.0"
   }
 }
